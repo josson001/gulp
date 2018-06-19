@@ -1,0 +1,62 @@
+/*
+* @Author: ww
+* @Date:   2018-06-13 11:45:43
+* @Last Modified by:   ww
+* @Last Modified time: 2018-06-15 13:53:55
+*/
+@import "public.scss";
+*{
+	padding:0;
+	margin:0;
+}
+@function rem($n){
+	@return  $n/2/37.5; 
+}
+.loading{
+	display:none;
+}
+.the-reader{
+	text-align:center;
+	padding-top:rem(30rem);
+	.for-love-tit{
+		margin-bottom: rem(38rem);
+		height:rem(268rem);
+		img{
+			width:rem(500rem);
+		}
+	}
+	.for-love{
+		height:rem(520rem);
+		img{
+			width:rem(750rem);
+		}
+	}
+	.love-child{
+		font-size: .32rem;
+		color: #C4B3A4;
+	}
+	.love-action {
+	color: #7D6958;
+	margin-top: .91rem;
+	}
+	.take-part{
+		margin-top: .17rem;
+		margin-bottom: .72rem;
+		display: inline-block;
+		width: 7.47rem;
+		height: 1.17rem;
+		background: url(../image/for-love-add.png) no-repeat;
+		background-size: 7.47rem 1.17rem;
+	}
+	.activity-description{
+		a{
+			color: #CFA277;
+			font-size: .32rem;
+			text-decoration: underline
+		}
+	}
+}
+
+
+
+

@@ -1,0 +1,58 @@
+/*
+* @Author: ww
+* @Date:   2018-06-13 11:45:43
+* @Last Modified by:   ww
+* @Last Modified time: 2018-06-15 13:53:55
+*/
+/*
+* @Author: ww
+* @Date:   2018-06-14 10:21:33
+* @Last Modified by:   ww
+* @Last Modified time: 2018-06-14 10:49:36
+*/
+.background-color {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #f6eee8;
+  overflow: auto; }
+
+* {
+  padding: 0;
+  margin: 0; }
+
+.loading {
+  display: none; }
+
+.the-reader {
+  text-align: center;
+  padding-top: 0.4rem; }
+  .the-reader .for-love-tit {
+    margin-bottom: 0.50667rem;
+    height: 3.57333rem; }
+    .the-reader .for-love-tit img {
+      width: 6.66667rem; }
+  .the-reader .for-love {
+    height: 6.93333rem; }
+    .the-reader .for-love img {
+      width: 10rem; }
+  .the-reader .love-child {
+    font-size: .32rem;
+    color: #C4B3A4; }
+  .the-reader .love-action {
+    color: #7D6958;
+    margin-top: .91rem; }
+  .the-reader .take-part {
+    margin-top: .17rem;
+    margin-bottom: .72rem;
+    display: inline-block;
+    width: 7.47rem;
+    height: 1.17rem;
+    background: url(../image/for-love-add.png) no-repeat;
+    background-size: 7.47rem 1.17rem; }
+  .the-reader .activity-description a {
+    color: #CFA277;
+    font-size: .32rem;
+    text-decoration: underline; }
