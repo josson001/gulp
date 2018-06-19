@@ -1,1 +1,3 @@
-const name =  "josson"
+const name = "josson";
+const age = 28;
+alert`age`;

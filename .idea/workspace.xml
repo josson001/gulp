@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59ea5492-66cd-4b36-bddc-535ec5494de0" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/cancel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/certificate/children-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/certificate/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/certificate/medal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/circle9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/finished.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/for-love-add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/for-love-tit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/for-love.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/for-loves.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/listening-test-finish.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/listening-test.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/love-poster.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/love-relaying.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/pic-sure.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/poetry-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/read-poetry.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/rerecord.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/start-record.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/stop-record.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/up-loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/up-loading1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/up_pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/image/wait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/es6_js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/es6_js/index1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/es6_js/pres.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/flexible.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/pres.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/public.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/es6_js/index1.js" afterPath="$PROJECT_DIR$/app/es6_js/index1.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index1.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/es6_js/index1.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/index1.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -156,9 +117,9 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-67" />
-    <option name="y" value="218" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="68" />
+    <option name="y" value="79" />
     <option name="width" value="1258" />
     <option name="height" value="780" />
   </component>
@@ -178,6 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,12 +165,16 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="es6_js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gulps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulps" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,12 +225,13 @@
       <workItem from="1529394230421" duration="254000" />
       <workItem from="1529394577749" duration="1917000" />
       <workItem from="1529397260367" duration="674000" />
-      <workItem from="1529397958738" duration="1813000" />
+      <workItem from="1529397958738" duration="2947000" />
+      <workItem from="1529402136657" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5837000" />
+    <option name="totallyTimeSpent" value="6974000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -275,7 +243,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18154761" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -284,10 +252,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7582237" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26973686" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +269,56 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/es6_js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/es6_js/index1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/index1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -514,8 +532,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/es6_js/index1.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/index1.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
